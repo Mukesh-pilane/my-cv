@@ -61,17 +61,16 @@ body{margin:0;
          		  top:180px;
              	right:22%;}
 							
-h1{font-size:32px;
+h1{font-size:48px;
    margin-bottom:0;
    font-family:'sacramento', cursive;
    color:#56be6a;
    font-wieght:normal;
    margin-top:10px;
-   text-shadow:px 5px 1px;
   }
 
 .top_container p{font-wieght:normal;
-                 font-size:15px;}
+                 font-size:20px;}
   
 .middle-container{background-color:bule;
  font-family:'Montserrat',sans-serif;
